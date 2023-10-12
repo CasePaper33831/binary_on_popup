@@ -1,5 +1,5 @@
 '''
-TODO:ummmmm wut happened to running the code? lets get that sorted
+TODO:ummmmm wut happened? code can't run, lets get that sorted
 
 FINISH:
 binary fill entire popup
